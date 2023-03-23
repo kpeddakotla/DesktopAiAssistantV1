@@ -3,7 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 
 openai.api_key = "OPENAI_KEY"
-key_phrase = "OK Google"
+key_phrase = "OK Genesis"
 
 
 def virtual_assistant():
